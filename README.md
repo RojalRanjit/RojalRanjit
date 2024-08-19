@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rojalranjit" alt="rojalranjit" /></a> </p>
 
-- 🔭 I’m currently working on **Php(Laravel Framework)**
+- 🔭 I’m currently working on **Next.js & Tailwind Css** 
 
-- 🌱 I’m currently learning **Php**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **ranjitrojal@gmail.com**
 
